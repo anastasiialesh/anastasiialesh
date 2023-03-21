@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**anastasiialesh/anastasiialesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- :sunflower: I'm a Ukrainian graphic designer currently living and working in Oregon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm a graphic design student at Portland State University
+
+- :potted_plant: In my free time, I love working on my oil paintings and caring for my houseplants.
+
+---
+<div id="badges">
+  <a href="https://www.instagram.com/leshch_ana/">
+    <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge"/>
+   </a>
+</div>
